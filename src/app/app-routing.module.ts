@@ -4,7 +4,7 @@ import { MapComponent } from './component/map/map.component';
 
 const routes: Routes = [
   {
-    path: '', redirectTo: '/dd', pathMatch: 'full'
+    path: '', redirectTo: '/home', pathMatch: 'full'
   },
   {
     path:'home',
